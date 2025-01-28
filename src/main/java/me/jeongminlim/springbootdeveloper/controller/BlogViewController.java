@@ -3,7 +3,6 @@ package me.jeongminlim.springbootdeveloper.controller;
 import lombok.RequiredArgsConstructor;
 import me.jeongminlim.springbootdeveloper.domain.Article;
 import me.jeongminlim.springbootdeveloper.dto.ArticleListViewResponse;
-//import me.jeongminlim.springbootdeveloper.dto.ArticleViewResponse;
 import me.jeongminlim.springbootdeveloper.dto.ArticleViewResponse;
 import me.jeongminlim.springbootdeveloper.service.BlogService;
 import org.springframework.stereotype.Controller;
